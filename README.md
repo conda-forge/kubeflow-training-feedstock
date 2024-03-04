@@ -147,4 +147,5 @@ Feedstock Maintainers
 * [@droctothorpe](https://github.com/droctothorpe/)
 * [@iamthebot](https://github.com/iamthebot/)
 * [@tenzen-y](https://github.com/tenzen-y/)
+* [@terrytangyuan](https://github.com/terrytangyuan/)
 
