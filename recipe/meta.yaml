@@ -1,5 +1,5 @@
 {% set name = "kubeflow-training" %}
-{% set version = "1.8.1" %}
+{% set version = "1.9.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,11 +7,11 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/kubeflow-training-{{ version }}.tar.gz
-  sha256: 137cdeb5843f90e637fd53df988cbf6894501900c8f372e7de75a6a1302fe8f5
+  sha256: b8b2fead3f0491793dbe24e6b0d7c73d4bce47bfd0c3dc362d38f620f69ec744
 
 build:
   noarch: python
-  number: 1
+  number: 0
 
 requirements:
   host:
